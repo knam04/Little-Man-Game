@@ -1,0 +1,4 @@
+repository "Little Man@Soft_Eng_MW@cloud"
+  path "/"
+    br "/main"
+    co "/main"
